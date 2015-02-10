@@ -1,7 +1,7 @@
 {
   "name": "catdown-wordcount",
   "version": "1.0.0",
-  "description": "Catdown plugin. Emits word count as a number and a pluralised string every time the editor is changed.",
+  "description": "Catdown plugin. Emits a 'wordcount' event with a number and a pluralised string every time the editor is changed.",
   "main": "index.js",
   "keywords": [
     "catdown",
