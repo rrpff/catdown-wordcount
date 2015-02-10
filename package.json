@@ -1,0 +1,13 @@
+{
+  "name": "catdown-wordcount",
+  "version": "1.0.0",
+  "description": "Catdown plugin. Emits word count as a number and a pluralised string every time the editor is changed.",
+  "main": "index.js",
+  "keywords": [
+    "catdown",
+    "markdown",
+    "wordcount"
+  ],
+  "license": "MIT",
+  "author": "Richard Foster <richard@rpf.me> (http://rpf.me/)"
+}
